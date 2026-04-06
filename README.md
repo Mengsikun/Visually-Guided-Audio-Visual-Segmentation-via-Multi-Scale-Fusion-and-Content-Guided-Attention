@@ -1,4 +1,4 @@
-![2](https://github.com/user-attachments/assets/97e3ad0d-6295-4b38-a5a1-12c58526f338)
+
 # Visually-Guided Audio-Visual Segmentation via Multi-Scale Fusion and Content-Guided Attention
 
 > **Authors:** Ying Cao, Sikun Meng, Yonghang Yan, Hengyi Ren
@@ -18,5 +18,5 @@ Audio-Visual Segmentation (AVS) is designed to utilize audio signals for identif
 *(You can upload your Figure 2 architecture diagram here later)*
 ```html
 <p align="center">
-  <img src="docs/framework.png" alt="Framework" width="80%">
+  <img src="![2](https://github.com/user-attachments/assets/97e3ad0d-6295-4b38-a5a1-12c58526f338)" alt="Framework" width="80%">
 </p>
