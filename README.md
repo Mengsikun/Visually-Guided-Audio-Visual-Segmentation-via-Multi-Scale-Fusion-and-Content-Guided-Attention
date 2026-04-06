@@ -1,4 +1,4 @@
-# Visually-Guided-Audio-Visual-Segmentation-via-Multi-Scale-Fusion-and-Content-Guided-Attention
+
 # Visually-Guided Audio-Visual Segmentation via Multi-Scale Fusion and Content-Guided Attention
 
 > **Authors:** Ying Cao, Sikun Meng, Yonghang Yan, Hengyi Ren
