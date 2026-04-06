@@ -15,8 +15,5 @@ This is the official PyTorch implementation of our proposed visually-guided fram
 Audio-Visual Segmentation (AVS) is designed to utilize audio signals for identifying and generating pixel-level segmentation masks of sounding objects, mirroring the intertwined nature of human audio-visual perception. While recent technological strides have fostered related tasks such as Sound Source Localization (SSL) and audiovisual event localization, these primarily address coarse-grained analysis. In contrast, AVS demands a finer-grained perception capability to simultaneously localize sound sources and accurately delineate their shapes. Driven by this requirement for detailed cross-modal understanding and pixel-level precision, AVS holds significant potential across diverse applications, including video editing, augmented reality, and intelligent surveillance systems.Although these methods are effective, they fail to fully explore the fine-grained correlations between audio and visual cues across various scenarios. First, in multi-source scenes where multiple targets emit sound simultaneously, mixed audio signals with high information density struggle to adaptively attend to visual signals. Second, simple fusion strategies often result in the insufficient utilization of cross-modal information.
 
 ## 🏗️ Architecture
-*(You can upload your Figure 2 architecture diagram here later)*
-```html
-<p align="center">
-  <img src="(https://github.com/user-attachments/assets/97e3ad0d-6295-4b38-a5a1-12c58526f338)" alt="Framework" width="80%">
-</p>
+[2](https://github.com/user-attachments/assets/a84ce143-6b1e-49b4-a363-54fb27543105)
+
